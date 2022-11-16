@@ -16,8 +16,8 @@
         <img
             src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmkosto&longCache=true" />
     </a>
-    <a href="https://juejin.cn/user/2348212565837165">
-        <img alt="juejin"
+    <a href="https://www.douyin.com/user/MS4wLjABAAAASi8UEZ8sqMjEY2_jwdjGtfDDGuIcbld0lIpyq6qKtIg">
+        <img alt="tiktok"
             src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
     </a>
      <a href="https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ">
