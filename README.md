@@ -68,7 +68,7 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
         <img src="https://avatars.githubusercontent.com/u/47679702?v=4" width="100px;" alt="kalila-cc"/>
       </a>
       <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
+      <a href="https://github.com/kalila-cc">kalila-cc</a>
     </td>
     <td align="center">
       <a href="https://github.com/lowlighter">
@@ -120,48 +120,6 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
-      </a>
-      <br />
-      <a href="https://github.com/pinhe91">寒梅</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
-      </a>
-      <br />
-      <a href="https://github.com/victoryang00">victoryang00</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Matrixbirds">
-        <img src="https://avatars2.githubusercontent.com/u/9990676" width="100px;" alt="Matrixbirds"/>
-      </a>
-      <br />
-      <a href="https://github.com/Matrixbirds">matrixbirds</a>
     </td>
   </tr>
 </table>
