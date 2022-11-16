@@ -30,7 +30,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-<h1 align="center">Hi 👋, welcome to my page!</h1>
+<h1 align="center">👋Welcome to my page!👋</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
