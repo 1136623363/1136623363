@@ -18,7 +18,7 @@
     </a>
     <a href="https://www.douyin.com/user/MS4wLjABAAAASi8UEZ8sqMjEY2_jwdjGtfDDGuIcbld0lIpyq6qKtIg">
         <img alt="tiktok"
-            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
+            src="https://img.shields.io/badge/Tiktok-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
     </a>
      <a href="https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ">
        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCpCzS_uKS1zzOAUjuuBNXDQ">
