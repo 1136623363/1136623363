@@ -72,11 +72,11 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
       <a href="https://github.com/kalila-cc">kalila-cc</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      <a href="https://github.com/LittleTurtle2333">
+        <img src="https://avatars.githubusercontent.com/u/32336368?v=4" width="100px;" alt="LittleTurtle2333"/>
       </a>
       <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+      <a href="https://github.com/LittleTurtle2333">乌堆小透明</a>
     </td>
     <td align="center">
       <a href="https://github.com/snowdream">
