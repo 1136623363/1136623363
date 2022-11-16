@@ -56,7 +56,7 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### :sparkles: My Followers
+### :sparkles: My Followers && Following
 
 ![Metrics](https://metrics.lecoq.io/1136623363?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
@@ -64,8 +64,8 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      <a href="https://github.com/kalila-cc">
+        <img src="https://avatars.githubusercontent.com/u/47679702?v=4" width="100px;" alt="kalila-cc"/>
       </a>
       <br />
       <a href="https://github.com/NaiboWang">Naibo Wang</a>
