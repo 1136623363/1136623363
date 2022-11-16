@@ -44,28 +44,6 @@
 ![](https://raw.githubusercontent.com/1136623363/github-stats-transparent/output/generated/languages.svg)
 
 
-<details open>
- <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://liangszu.xyz/archives/pa-qu-dian-fei"><img src="https://liangszu.xyz/archives/pa-qu-dian-fei" alt="Recent Article 0"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
-  <br>
-
-</details>
-
-### Latest Tweets
-
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
-### 🎧 Spotify Playing
-
-![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-
-
 ### :dart: Weekly Fuck The Code
 
 <!--START_SECTION:waka-->
@@ -199,62 +177,4 @@ Github：itgoyo
 
 B站房间:https://live.bilibili.com/3519206
 
-Don't be a programmer, Be a problem solver.
 
-公众号：v2code
-
-- 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
-
-
-- :computer: PC/Mac:
-    - M1 Pro 16寸 16G+512G
-    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015 16G 256SSD
-    - Mac Mini m1 16G 512SSD
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
-    - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
-    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
-    - 蜗牛星际 J1900+4G +3T DSM918+
-    - 威联通QNAP TS462C 500G
-    - 威联通QNAP TVS-675 8h8c
-    - ZimaBoard
-
-- :iphone: phone/iPhone:
-    - iPhone12
-
-- :camera: Camera:
-    - Sony A6000
-    - Sony A6400
-
-- :microphone: Mic:
-    - SM7B + ID14MKII
-    - MAONO PM320T + E2
-
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/2Dou/watermarker/issues/10) in [2Dou/watermarker](https://github.com/2Dou/watermarker)
-2. 🗣 Commented on [#10](https://github.com/2Dou/watermarker/issues/10) in [2Dou/watermarker](https://github.com/2Dou/watermarker)
-<!--END_SECTION:activity-->
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [罗技GPW智商税？30块包邮的平替戴记严选GM3323D，个人使用感受值！但问题很多](https://www.youtube.com/watch?v=eU3neHHg2RM)
-- [50块的服务器自动化脚本，我是怎么打造被动收入月入过千的？看完你就明白](https://www.youtube.com/watch?v=zS85lzuX8dc)
-- [4000块搭建一套属于自己的录音设备是什么效果 | 舒尔Shure SM7B | iD14 | DM1话放 | 直播麦克风 | 动圈麦克风](https://www.youtube.com/watch?v=p7OsYawEguQ)
-- [百元级别电容麦克风，我也没想到音质会这么好，还自带声音降噪，数字屏幕，悬臂支架 | 飞度FU mini30 | 七语 SR-AU01-K1](https://www.youtube.com/watch?v=jiLUFrWD_Aw)
-- [这个小玩意能让你生产效率提升1400%，TourBox上手体验，感觉发现了新大陆 | TourBox | 剪辑神器 | 修图神器 | 修音神器 | 直播神器](https://www.youtube.com/watch?v=hl-eie7Oqxc)
-<!-- YOUTUBE:END -->
