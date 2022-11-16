@@ -60,6 +60,7 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
 
 ![Metrics](https://metrics.lecoq.io/1136623363?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
+### Following
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -111,15 +112,6 @@ Other    5 mins          ██▒░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
   </tr>
 </table>
