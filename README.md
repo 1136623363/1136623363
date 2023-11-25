@@ -123,6 +123,6 @@ Github：1136623363
 
 微博、知乎、B站：風之守護i
 
-博客: [風之守護](https://liangszu.xyz/)
+博客: [風之守護](https://liang.asia/)
 
 
