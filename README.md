@@ -126,3 +126,27 @@ Github：1136623363
 博客: [風之守護](https://liang.asia/)
 
 
+您好，我对您的这篇论文非常感兴趣！
+```
+@article{Chen_Shao_Zhu_Heng_Shen,   title={Multivariate, Multi-frequency and Multimodal: Rethinking Graph Neural Networks for Emotion Recognition in Conversation},  author={Chen, Feiyu and Shao, Jie and Zhu, Shuyuan and Heng, † and Shen, Tao},  language={en-US}  }
+```
+您在该论文中，所提出的将基于超图的多元传播和基于普通图的多频传播的双通道并行理念让我耳目一新。
+
+但是，针对您给出的代码，我有几点疑惑
+
+1. weight：在model_hyper.py的[155行](https://github.com/feiyuchen7/M3NET/blob/4d0fa88cd4f92c72b053527e877763f54e29ccb2/model_hyper.py#L155)中，您定义了一个weight,其用于HypergraphConv.py中计算节点的度B
+
+2. EW_weight：在model_hyper.py的[156行](https://github.com/feiyuchen7/M3NET/blob/4d0fa88cd4f92c72b053527e877763f54e29ccb2/model_hyper.py#L156)中，您定义了一个EW_weight,其用于HypergraphConv.py中计算超边的度D
+
+但是以上两个变量，均被设置成了固定的1，
+![image](https://github.com/feiyuchen7/M3NET/assets/72068332/827428ad-0ed6-447f-8c42-c84aff2cdbd1)
+
+那是否与论文3.2.1中的Weights的随机设定相悖
+![image](https://github.com/feiyuchen7/M3NET/assets/72068332/b91f3e68-2ec2-467d-b97a-5e368012e0a6)
+
+并且我在后续中未找到调整这些参数的代码部分
+
+
+
+我是一个ERC领域的初学者，如果能得到您的点拨，我将不胜感激！
+
