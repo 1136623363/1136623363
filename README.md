@@ -123,7 +123,7 @@ Github：1136623363
 
 微博、知乎、B站：風之守護i
 
-博客: [風之守護](https://liang.asia/)
+博客: [CollinChan](https://www.bxsn.cn/)
 
 
 
